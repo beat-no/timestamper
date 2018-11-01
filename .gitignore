@@ -1,0 +1,8 @@
+.gitignore
+.kdev4/
+build/
+dist/
+timestamper.egg-info/
+timestamper.kdev4
+.bumpversion.cfg
+
